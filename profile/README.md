@@ -1,1 +1,1 @@
-<img src="minecraft_title.png" alt="beltariabanner"/>
+<img src="https://cdn.discordapp.com/attachments/1158063826273587221/1158063865523880168/minecraft_title.png?ex=651ae285&is=65199105&hm=2e223613d3e65c4109ce2c12b09a6aa2c3f7f33464840898b84e154e412c1b92&" alt="beltariabanner"/>
